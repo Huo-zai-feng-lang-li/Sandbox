@@ -1,0 +1,31 @@
+<Configuration>
+  <MappedFolders>
+    <MappedFolder>
+      <HostFolder>C:\Users\Administrator\Desktop\Sandbox</HostFolder>
+      <ReadOnly>false</ReadOnly>
+    </MappedFolder>
+    <MappedFolder>
+      <HostFolder>E:\Microsoft VS Code</HostFolder>
+      <SandboxFolder>C:\VSCode</SandboxFolder>
+      <ReadOnly>true</ReadOnly>
+    </MappedFolder>
+    <MappedFolder>
+      <HostFolder>E:\dotsvpn</HostFolder>
+      <SandboxFolder>C:\dotsvpn</SandboxFolder>
+      <ReadOnly>true</ReadOnly>
+    </MappedFolder>
+    <MappedFolder>
+      <HostFolder>D:\Warp</HostFolder>
+      <SandboxFolder>C:\Warp</SandboxFolder>
+      <ReadOnly>true</ReadOnly>
+    </MappedFolder>
+    <MappedFolder>
+      <HostFolder>C:\Program Files\Google\Chrome\Application</HostFolder>
+      <SandboxFolder>C:\Chrome</SandboxFolder>
+      <ReadOnly>true</ReadOnly>
+    </MappedFolder>
+  </MappedFolders>
+  <LogonCommand>
+    <Command>C:\Users\WDAGUtilityAccount\Desktop\Sandbox\scripts\startup.cmd</Command>
+  </LogonCommand>
+</Configuration>
